@@ -5,7 +5,7 @@ public class Launcher
 {
     public static void main (String[] args)
     {
-        Game myGame = new StarfishCollectorAlpha();
+        Game myGame = new StarfishCollector();
         LwjglApplication launcher = new LwjglApplication( myGame, "Starfish Collector", 800, 600 );
     }
 }

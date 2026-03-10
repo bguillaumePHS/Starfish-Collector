@@ -7,7 +7,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.Game;
 
-public class StarfishCollectorAlpha extends Game
+public class StarfishCollector extends Game
 {
     private SpriteBatch batch;
     
